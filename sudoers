@@ -1,0 +1,3 @@
+Defaults    env_keep="HOME"
+
+user   ALL = NOPASSWD: ALL
