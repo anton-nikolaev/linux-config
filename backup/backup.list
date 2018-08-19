@@ -1,0 +1,8 @@
+root/
+home/user/
+etc/
+var/backups/
+usr/local/www/
+usr/local/etc/
+mnt/
+var/spool/cron/crontabs/

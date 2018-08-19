@@ -1,0 +1,7 @@
+/var/log/backup.log {
+  rotate 10
+  size 2000k
+  compress
+  missingok
+  notifempty
+}

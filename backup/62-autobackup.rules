@@ -1,0 +1,2 @@
+ACTION=="add",ENV{ID_FS_UUID}=="3a11035b-2cca-4f5e-89f0-45d582c95c9a",RUN="/usr/bin/touch /root/.backup_media_mounted"
+ACTION=="add",ENV{ID_FS_UUID}=="24e6b0e4-df7c-4e31-b794-4fbcc52cd3d1",RUN="/usr/bin/touch /root/.backup_media_mounted"
